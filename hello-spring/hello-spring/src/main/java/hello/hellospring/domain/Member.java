@@ -1,6 +1,9 @@
 package hello.hellospring.domain;
 
-import javax.persistence.*;
+//import javax.persistence.*;
+
+import javax.persistence.Entity;
+import javax.persistence.Id;
 
 @Entity
 public class Member {
